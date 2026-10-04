@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Pedro Vitor 👋
 
-<!--
-**pedrovitorcantanhede/pedrovitorcantanhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante da Universidade Federal do Maranhão (UFMA), cursando ABI em Ciências da Computação / Inteligência Artificial.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo minha base em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Algoritmos
+- Lógica de Programação
+- Inteligência Artificial
+
+Tenho interesse em desenvolvimento de software, IA, pesquisa e tecnologia.
+
+## Atualmente
+
+- Estudando Python e algoritmos
+- Aprofundando meus conhecimentos em computação e inteligência artificial
+- Buscando desenvolver projetos práticos
+- Construindo meu portfólio acadêmico e profissional
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/pedrocantanhede
